@@ -3,10 +3,10 @@ A Graph Visualizer and Shortest Path Finder Using Dijstra's Algorithm, Written i
 	
 ## Usage
 
-![](data/CanadaMapWNodes.png)
+![](screenshots/CanadaMapWNodes.png)
 
 
-![](data/CanadaMapDiscoveringCities.png)
+![](screenshots/CanadaMapDiscoveringCities.png)
 
 
-![](data/CanadaMapWFlightTimeBtNodes.png)
+![](screenshots/CanadaMapWFlightTimeBtNodes.png)
