@@ -1,4 +1,4 @@
-# Graphical User Interface (GUI) Project
+# Dijkstra Graphical User Interface (GUI) Project
 A Graph Visualizer and Shortest Path Finder Using Dijkstra's Algorithm, Written in Processing.
 	
 ## Usage
